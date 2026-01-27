@@ -3,4 +3,4 @@ welcome
 name
 dir
 make
-nullify
+echo
